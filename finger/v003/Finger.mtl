@@ -1,0 +1,14 @@
+# Skin and nail for the index-finger mesh.
+newmtl Skin
+Ka 0.20 0.14 0.11
+Kd 0.86 0.62 0.50
+Ks 0.10 0.08 0.07
+Ns 18
+illum 2
+
+newmtl Nail
+Ka 0.28 0.26 0.25
+Kd 0.94 0.88 0.86
+Ks 0.35 0.33 0.32
+Ns 90
+illum 2

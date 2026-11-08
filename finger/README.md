@@ -2,6 +2,6 @@
 
 `/simworld` does not exist on this machine. These files are the tracking copy in this repository.
 
-v002 is the approved mesh. It keeps v001 except for the free-edge cap: the s>0.90 quarter-circle shrink and the 1.1 mm tip fan are gone, replaced by a 6-ring cap (forward 0.0026 m, palmar bias 0.0009 m, dorsal pinch 0.18).
+v003 is the approved mesh. It keeps the v002 fingertip and softens the two interphalangeal joints: the ring scales are 0.12 over width 0.070 at s=0.44 and 0.11 over width 0.064 at s=0.70, with the palmar grooves and knuckle widths widened to match.
 
-v001 is the baseline that v002 was approved against. `v001-v002/` has the paired views from that review. Later iterations are not copied here until they are approved.
+v002 is the approved fingertip that v003 started from. v001 is the earlier baseline. `v001-v002/` and `v002-v003/` hold those review pairs. Later iterations are not copied here until they are approved.

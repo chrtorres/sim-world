@@ -1,0 +1,17 @@
+v002 sha256: aae7612bf483c4d7cd43a71198ac54eea56362cbcad8ec2042844bfd43fdde82
+v003 sha256: c14cd513164086441857748cf2e3d61e4aea160d09b7d4b5963690fc1d566512
+vertices: 2764
+triangles: 5356
+volume: 1.384870e-05
+steepest one-ring drop in s=[0.34,0.78], v002 -> v003:
+  lateral 0.161 -> 0.034
+  palmar  0.271 -> 0.044
+  dorsal  0.160 -> 0.063
+lateral depth at 0.44: 0.293 -> 0.065
+lateral depth at 0.70: 0.282 -> 0.081
+local lateral minima: 0.430 and 0.698
+base and tip stations s=0.08, 0.20, 0.90, 0.97: relative change 0
+v003 checks: PASS
+selftest: PASS
+trial: PASS
+F6: not run
