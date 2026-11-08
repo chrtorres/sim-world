@@ -1,0 +1,20 @@
+v001 sha256: f53b9ce4dafba3763f79bef71b850cd8a0d5d925b986d9a00bcc6a081dca15c9
+v002 sha256: aae7612bf483c4d7cd43a71198ac54eea56362cbcad8ec2042844bfd43fdde82
+v001 vertices: 2590
+v002 vertices: 2764
+v002 triangles: 5356
+v002 volume: 1.369779e-05
+v002 span_m: 0.021255 x 0.100236 y 0.020630 z
+tip half-width ratio at 97% / 90% of Y span: v001 0.6257, v002 0.8971
+shaft half-width relative change at y=0.004904, 0.040472, 0.046401, 0.066161: 0
+iteration checks: PASS
+verifier selftest: PASS
+verifier trial: FAIL T1 only
+T1 cause: real second_brain status was already
+?? .agents/skills/code-integration/
+?? .claude/skills/code-integration
+?? .cursor/skills/code-integration
+before this edit. Expected status in the original log is empty.
+F1-F5: no mesh failure reported by the trial.
+F6: not run. No Unity editor on this machine.
+new SKILL.md: none
